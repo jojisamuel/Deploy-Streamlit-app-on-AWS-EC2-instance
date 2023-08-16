@@ -10,7 +10,7 @@ This repository contains instructions and resources to deploy a Streamlit app on
 
 ## Steps to Deploy
 
-1. Launch an EC2 instance on AWS using the Amazon Linux AMI.
+1. Launch an EC2 instance on AWS.
 2. Configure security groups to allow inbound traffic on SSH and the required app port.
 3. Generate or use an existing SSH key pair to connect to the EC2 instance.
 4. SSH into the EC2 instance:
